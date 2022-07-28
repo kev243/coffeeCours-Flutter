@@ -33,7 +33,7 @@ class CoffeeTitle extends StatelessWidget {
                   Text('Late', style: TextStyle(fontSize: 20)),
                   SizedBox(height: 4),
                   Text(
-                    'With Almond Milk',
+                    'With Almond Milke',
                     style: TextStyle(color: Colors.grey[700]),
                   ),
                 ],
